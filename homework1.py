@@ -1,0 +1,10 @@
+name = input("შეიყვანეთ თქვენი სახელი: ")
+surname = input("შეიყვანეთ თქვენი გვარი: ")
+age = input("შეიყვანეთ თქვენი ასაკი: ")
+gmail = input("შეიყვანეთ თქვენი Gmail: ")
+addres = input("შეიყვანეთ მისამართი: ")
+phone_number = input("შეიყვანეთ ტელეფონის ნომერი: ")
+password = input("შეიყვანეთ პაროლი: ")
+password1 = input("შეიყვანეთ პაროლი ხელთავიდან: ")
+
+print(name + " " + surname + " " + age + " " + gmail + " " + addres + " " + phone_number + " " + password + " " + password1)
